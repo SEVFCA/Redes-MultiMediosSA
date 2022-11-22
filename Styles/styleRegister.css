@@ -1,0 +1,31 @@
+@font-face {
+    font-family: jost;
+    src: url(Fonts/Jost\ Regular\ 400.ttf);
+}
+
+@font-face {
+    font-family: jost-bold;
+    src: url(Fonts/Jost\ Bold\ 700.ttf);
+}
+
+body{
+    font-family: jost;
+    background-image: url(../Images/imageRegister.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+.btn{
+    background-color: #F03131;
+    color: white;
+    border-color: #F03131;
+}
+
+.btn:hover{
+    background-color: #c91c1c;
+    color: white;
+    border-color: #c91c1c;
+    
+}   

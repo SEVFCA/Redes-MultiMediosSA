@@ -1,0 +1,23 @@
+@font-face {
+    font-family: jost;
+    src: url(Fonts/Jost\ Regular\ 400.ttf);
+}
+
+@font-face {
+    font-family: jost-bold;
+    src: url(Fonts/Jost\ Bold\ 700.ttf);
+}
+
+body{
+    font-family: jost;
+    background-color: #0E1420;
+    color: white;
+}
+
+.nav-link{
+    color: #F03131;
+}
+
+.nav-link:hover{
+    color: #ffff;
+}
